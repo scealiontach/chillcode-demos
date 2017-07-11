@@ -4,7 +4,9 @@ This project contains examples Chills. You can use the buttons here to fork and 
 ## Tomcat 
 The Tomcat example builds a simple website. Replace the source with your own web app to customize it.
 
-<img src="http://tomcat.apache.org/images/tomcat.png" alt="Drawing" width="32" height="32" />  [![Deploy Button](https://chillcode.io/images/launch.png)](https://www.chillcode.io/s/1T)
+<img src="http://tomcat.apache.org/images/tomcat.png" alt="Drawing" width="32" height="32" /> &nbsp;&nbsp; [![Deploy Button](https://chillcode.io/images/launch.png)](https://www.chillcode.io/s/1T)
+
+## WordPress 
 
 This is a basic definition of a Wordpress installation. In order to customize one should fork scealiontach/chillcode-demos and replace the source assignments with your own (apache and wordpress/wp-config.php)
 
