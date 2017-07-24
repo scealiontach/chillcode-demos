@@ -94,7 +94,6 @@ $databases['default']['default'] = array(
 	'port' => getenv('service_drupaldb_port'),
 	'driver' => getenv('service_drupaldb_protocol'),
 	'prefix' => '',
-	'collation' => 'utf8mb4_general_ci',
 );
 /**
  * Customizing database settings.
