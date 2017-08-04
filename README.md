@@ -4,7 +4,7 @@ This project contains examples Chills. You can use the buttons here to fork and 
 ## Tomcat 
 The Tomcat example builds a simple website. Replace the source with your own web app to customize it.
 
-<img src="http://tomcat.apache.org/images/tomcat.png" alt="Drawing" width="32" height="32" /> &nbsp;&nbsp; [![Deploy Button](https://chillcode.io/images/launch.png)](https://dev.chillcode.io/s/P)
+<img src="http://tomcat.apache.org/images/tomcat.png" alt="Drawing" width="32" height="32" /> &nbsp;&nbsp; [![Deploy Button](https://chillcode.io/images/launch.png)](https://www.chillcode.io/s/1O)
 
 ## WordPress 
 
